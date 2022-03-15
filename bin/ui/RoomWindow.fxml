@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="520.0" prefWidth="584.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label alignment="CENTER" layoutX="93.0" layoutY="8.0" prefHeight="61.0" prefWidth="414.0" text="SCREEN">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Button fx:id="b1" layoutX="76.0" layoutY="94.0" mnemonicParsing="false" onAction="#clickb1" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b2" layoutX="145.0" layoutY="94.0" mnemonicParsing="false" onAction="#clickb2" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b3" layoutX="211.0" layoutY="94.0" mnemonicParsing="false" onAction="#clickb3" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b4" layoutX="277.0" layoutY="94.0" mnemonicParsing="false" onAction="#clickb4" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b5" layoutX="344.0" layoutY="94.0" mnemonicParsing="false" onAction="#clickb5" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b6" layoutX="407.0" layoutY="94.0" mnemonicParsing="false" onAction="#clickb6" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b7" layoutX="474.0" layoutY="94.0" mnemonicParsing="false" onAction="#clickb7" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Pane layoutX="57.0" layoutY="153.0" prefHeight="61.0" prefWidth="486.0">
+         <children>
+            <Button fx:id="b8" layoutX="21.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb8" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b9" layoutX="88.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb9" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b10" layoutX="156.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb10" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b11" layoutX="220.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb11" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b12" layoutX="285.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb12" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b13" layoutX="352.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb13" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b14" layoutX="418.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb14" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+         </children>
+      </Pane>
+      <Pane layoutX="57.0" layoutY="220.0" prefHeight="61.0" prefWidth="486.0">
+         <children>
+            <Button fx:id="b15" layoutX="21.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb15" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b16" layoutX="88.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb16" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b17" layoutX="156.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb17" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b18" layoutX="220.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb18" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b19" layoutX="285.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb19" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b20" layoutX="352.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb20" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b21" layoutX="418.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb21" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+         </children>
+      </Pane>
+      <Pane layoutX="57.0" layoutY="289.0" prefHeight="61.0" prefWidth="486.0">
+         <children>
+            <Button fx:id="b22" layoutX="21.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb22" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b23" layoutX="88.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb23" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b24" layoutX="156.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb24" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b25" layoutX="220.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb25" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b26" layoutX="285.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb26" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b27" layoutX="352.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb27" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+            <Button fx:id="b28" layoutX="418.0" layoutY="7.0" mnemonicParsing="false" onAction="#clickb28" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+         </children>
+      </Pane>
+      <Label layoutX="39.0" layoutY="109.0" text="A" />
+      <Label layoutX="39.0" layoutY="175.0" text="B" />
+      <Label layoutX="39.0" layoutY="242.0" text="C" />
+      <Label layoutX="38.0" layoutY="311.0" text="D" />
+      <Button layoutX="497.0" layoutY="481.0" mnemonicParsing="false" onAction="#clickRegister" style="-fx-background-color: BLUE;" text="REGISTER" textFill="WHITE" />
+      <Label layoutX="43.0" layoutY="373.0" text="E" />
+      <Button fx:id="b29" layoutX="76.0" layoutY="358.0" mnemonicParsing="false" onAction="#clickb29" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b30" layoutX="145.0" layoutY="358.0" mnemonicParsing="false" onAction="#clickb30" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b31" layoutX="211.0" layoutY="358.0" mnemonicParsing="false" onAction="#clickb31" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b32" layoutX="277.0" layoutY="358.0" mnemonicParsing="false" onAction="#clickb32" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b33" layoutX="344.0" layoutY="358.0" mnemonicParsing="false" onAction="#clickb33" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b34" layoutX="407.0" layoutY="358.0" mnemonicParsing="false" onAction="#clickb34" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b35" layoutX="474.0" layoutY="358.0" mnemonicParsing="false" onAction="#clickb35" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Label layoutX="43.0" layoutY="434.0" text="F" />
+      <Button fx:id="b36" layoutX="76.0" layoutY="419.0" mnemonicParsing="false" onAction="#clickb36" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b37" layoutX="145.0" layoutY="419.0" mnemonicParsing="false" onAction="#clickb37" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b38" layoutX="211.0" layoutY="419.0" mnemonicParsing="false" onAction="#clickb38" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b39" layoutX="277.0" layoutY="419.0" mnemonicParsing="false" onAction="#clickb39" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b40" layoutX="344.0" layoutY="419.0" mnemonicParsing="false" onAction="#clickb40" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b41" layoutX="407.0" layoutY="419.0" mnemonicParsing="false" onAction="#clickb41" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+      <Button fx:id="b42" layoutX="474.0" layoutY="419.0" mnemonicParsing="false" onAction="#clickb42" prefHeight="47.0" prefWidth="46.0" style="-fx-background-radius: 150;" />
+   </children>
+</AnchorPane>
